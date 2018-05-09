@@ -1,0 +1,46 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+}
+
+body {
+    background-color:   rgb(68,68,68);
+    border: 5px solid rgb(122,122,122);
+    width: 520px;
+    padding: 20px;
+    position: relative;
+    margin: 20px auto;
+}
+header {
+    text-align: center;
+    padding-bottom: 20px;
+}
+a {
+    color: rgb(91,201,156);
+}
+.active {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+main {
+    border-top: 1px solid rgb(122,122,122);
+    border-bottom: 1px solid rgb(122,122,122);
+    padding: 0, 15px;
+    color: white;
+
+}
+img {
+    float: right;
+    border: 1px solid rgb(122,122,122);
+    padding: 5px;
+    margin: 10px;
+    width: 25%;
+}
+footer {
+    text-align: center;
+    padding-top: 20px;
+}
